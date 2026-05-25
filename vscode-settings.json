@@ -1,0 +1,149 @@
+{
+  "window.restoreWindows": "none",
+  "window.zoomLevel": 1,
+  // "window.customTitleBarVisibility": "never",
+  // "window.titleBarStyle": "native",
+  "workbench.welcomePage.walkthroughs.openOnInstall": false,
+  "workbench.startupEditor": "none",
+  "workbench.layoutControl.enabled": false,
+  "workbench.tips.enabled": false,
+  "workbench.sideBar.location": "right",
+  "workbench.statusBar.visible": false,
+  // "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.hidesExplorerArrows": true,
+  "workbench.iconTheme": "symbols",
+  "symbols.hidesExplorerArrows": true,
+  "workbench.tree.renderIndentGuides": "none",
+  "workbench.tree.indent": 10,
+  // Exibir ou não multiplas tabs
+  "workbench.editor.showTabs": "multiple",
+  // "workbench.editor.showTabs": "single",
+  "breadcrumbs.enabled": false,
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+  // "explorer.confirmDelete": false,
+  "explorer.decorations.badges": false,
+  "editor.minimap.enabled": false,
+  "editor.cursorBlinking": "solid",
+  // "editor.cursorStyle": "block",
+  "editor.cursorStyle": "line",
+  "editor.formatOnSave": true,
+  "editor.fontSize": 13,
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 1.75,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+  // "editor.colorDecorators": false,
+  "editor.codeLens": false,
+  // "editor.links": false,
+  // "editor.parameterHints.enabled": false,
+  "editor.lightbulb.enabled": "off",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.guides.indentation": false,
+  "editor.occurrencesHighlight": "off",
+  "editor.selectionHighlight": false,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.overviewRulerBorder": false,
+  "editor.hideCursorInOverviewRuler": true,
+  // "editor.quickSuggestions": {
+  //   "other": "off"
+  // },
+  "editor.snippetSuggestions": "top",
+  "emmet.triggerExpansionOnTab": true,
+  // Formating files. Not needed if you have a formatter that formats on save.
+  // "files.trimTrailingWhitespace": true,
+  // "files.insertFinalNewline": true,
+  "scm.diffDecorations": "none",
+  "git.decorations.enabled": false,
+  "update.mode": "none",
+  // "extensions.ignoreRecommendations": true,
+  "custom-ui-style.stylesheet": {
+    // ".monaco-workbench.mac": "font-family: Anka/Coder Condensed !important",
+    ".notification-toast": "box-shadow: none !important",
+    ".quick-input-widget.show-file-icons": "box-shadow: none !important",
+    ".quick-input-widget": "top: 25vh !important",
+    ".quick-input-list .scrollbar": "display: none",
+    ".monaco-action-bar.quick-input-inline-action-bar": "display: none",
+    ".editor-widget.find-widget": "box-shadow: none; border-radius: 4px",
+    ".quick-input-titlebar": "background: #100B15 !important",
+    ".monaco-workbench .part.editor > .content .editor-group-container > .title.title-border-bottom:after": "display: none",
+    ".monaco-scrollable-element > .shadow.top": "display: none",
+    ".sidebar .title-label": "padding: 0 !important",
+    ".sidebar": "border: none !important",
+    ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "outline: none !important",
+    ".monaco-list-row.focused": "outline: none !important",
+    ".monaco-editor .scroll-decoration": "display: none",
+    ".title-actions": "display: none !important",
+    ".title.show-file-icons .label-container .monaco-icon-label.file-icon": "justify-content: center; padding: 0 !important",
+    ".title .monaco-icon-label:after": "margin-right: 0",
+    ".monaco-workbench .part.editor > .content .editor-group-container > .title > .label-container > .title-label": "padding-left: 60px",
+    ".title .monaco-icon-label.file-icon": "margin: 0 60px",
+    ".monaco-editor .cursors-layer .cursor": "background-image: linear-gradient(135deg, #DA70D6 10%, #DA70D6 100%)"
+  },
+  // "workbench.colorTheme": "Aura Dark (Soft Text)",
+  // "workbench.colorTheme": "Aura Dark",
+  "workbench.colorTheme": "GitHub Dark Default",
+  "workbench.colorCustomizations": {
+    "editorCursor.background": "#000000",
+    "editorOverviewRuler.wordHighlightStrongForeground": "#0000",
+    "editorOverviewRuler.selectionHighlightForeground": "#0000",
+    "editorOverviewRuler.rangeHighlightForeground": "#0000",
+    "editorOverviewRuler.wordHighlightForeground": "#0000",
+    "editorOverviewRuler.bracketMatchForeground": "#0000",
+    "editorOverviewRuler.findMatchForeground": "#0000",
+    "editorOverviewRuler.modifiedForeground": "#0000",
+    "editorOverviewRuler.deletedForeground": "#0000",
+    "editorOverviewRuler.warningForeground": "#0000",
+    "editorOverviewRuler.addedForeground": "#0000",
+    "editorOverviewRuler.errorForeground": "#0000",
+    "editorOverviewRuler.infoForeground": "#0000",
+    "editorOverviewRuler.border": "#0000",
+    "[Aura Dark (Soft Text]": {
+      "editorSuggestWidget.selectedBackground": "#3A334B",
+      "sideBar.background": "#191521"
+    },
+    "[GitHub Dark Default]": {
+      "editorSuggestWidget.selectedBackground": "#000000",
+      "sideBar.background": "#0d1117"
+    },
+  },
+  // PERSONAL CONFIGS
+  "js/ts.suggest.autoImports": true,
+  "js/ts.updateImportsOnFileMove.enabled": "always",
+  // "editor.rulers": [
+  //   80,
+  //   120
+  // ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.addMissingImports": "explicit",
+  },
+  "window.commandCenter": true,
+  "editor.semanticHighlighting.enabled": false,
+  "files.exclude": {
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/.hg": true,
+    "**/.svn": true,
+    "**/.git": true
+    // "node_modules": true
+  },
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    "*.tsx": "typescriptreact",
+    ".env.*": "dotenv",
+  },
+  "editor.renderLineHighlight": "gutter",
+  "custom-ui-style.font.sansSerif": "JetBrains Mono",
+  "editor.fontFamily": "JetBrains Mono"
+}

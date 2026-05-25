@@ -1,0 +1,5 @@
+theme = Github Dark Default
+font-family = Anka/Coder Condensed
+font-size = 15
+background-opacity = 0.9
+background-blur = true

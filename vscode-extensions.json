@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "miguelsolorio.symbols",
+    "github.github-vscode-theme",
+    "subframe7536.custom-ui-style",
+    "ms-vscode-remote.remote-containers",
+    "mrmlnc.vscode-duplicate",
+    "christian-kohler.npm-intellisense",
+    "wix.vscode-import-cost",
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-portuguese-brazilian",
+    "cardinal90.multi-cursor-case-preserve"
+  ]
+}
