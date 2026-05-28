@@ -153,5 +153,6 @@
   },
   "editor.renderLineHighlight": "gutter",
   "custom-ui-style.font.sansSerif": "JetBrains Mono",
-  "editor.fontFamily": "JetBrains Mono"
+  "editor.fontFamily": "JetBrains Mono",
+  "cSpell.language": "en,pt,pt-BR"
 }
