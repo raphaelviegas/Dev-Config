@@ -1,0 +1,11 @@
+[url "git@viegasDev:dev-viegas/"]
+    insteadOf = git@github.com:dev-viegas/
+    insteadOf = https://github.com/dev-viegas/
+
+[url "git@github:raphaelviegas/"]
+    insteadOf = git@github.com:raphaelviegas/
+    insteadOf = https://github.com/raphaelviegas/
+
+[url "git@ergopro:Ergopro2024/"]
+    insteadOf = git@github.com:Ergopro2024/
+    insteadOf = https://github.com/Ergopro2024/

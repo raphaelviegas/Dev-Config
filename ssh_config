@@ -1,0 +1,23 @@
+Host github
+    HostName github.com
+    User git
+    AddKeysToAgent yes
+    UseKeychain yes
+    IdentityFile ~/.ssh/NAME_OF_SSH_KEY
+    IdentitiesOnly yes
+
+Host ergopro
+    HostName github.com
+    User git
+    AddKeysToAgent yes
+    UseKeychain yes
+    IdentityFile ~/.ssh/NAME_OF_SSH_KEY
+    IdentitiesOnly yes
+
+Host viegasDev
+    HostName github.com
+    User git
+    AddKeysToAgent yes
+    UseKeychain yes
+    IdentityFile ~/.ssh/NAME_OF_SSH_KEY
+    IdentitiesOnly yes
